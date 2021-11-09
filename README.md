@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://vistr.dev/badge?repo=Junweiice.fundamental)
 
 <!--
 **Junweiice/Junweiice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
